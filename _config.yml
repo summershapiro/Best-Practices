@@ -1,11 +1,22 @@
-markdown: redcarpet
-
-pygments: true
+# Change these to your own values:
 
 github_user: harlantwood
-# If the repo behind this site is stored on Github, you can specify
-# your github repo name to allow people to fork your site:
-# github_repo: xxx.github.com
-
+github_repo: Best-Practices
+url: http://harlantwood.github.com/Best-Practices
 google_analytics_tracking_id: UA-17399272-1
+
+# The rest of the default values should be fine, but can be changed if desired:
+
+title: Best Practices
+subtitle: "Use these or better..."
+simple_search: http://google.com/search
+
+permalink: none
+# permalink: /:title
+# permalink: /blog/:year/:month/:day/:title/
+
+markdown: maruku
+pygments: true
+
+titlecase: false       # Converts page and post titles to titlecase
 
