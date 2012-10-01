@@ -1,0 +1,11 @@
+markdown: redcarpet
+
+pygments: true
+
+github_user: harlantwood
+# If the repo behind this site is stored on Github, you can specify
+# your github repo name to allow people to fork your site:
+# github_repo: xxx.github.com
+
+google_analytics_tracking_id: UA-17399272-1
+
