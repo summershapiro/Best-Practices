@@ -3,6 +3,7 @@
 fork_this_github_user: harlantwood
 fork_this_github_repo: Best-Practices
 url: http://harlantwood.github.com/Best-Practices
+root_url: http://harlantwood.github.com/Best-Practices
 google_analytics_tracking_id: UA-17399272-1
 
 # The rest of the default values should be fine, but can be changed if desired --
