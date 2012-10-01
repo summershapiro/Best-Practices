@@ -1,17 +1,21 @@
 ---
-layout: page
+layout: default
 title:
 status: unlisted
 ---
 
-<div id="page-summaries">
+<div class="blog-index">
   {% for page in site.pages %}
     {% if page.layout == 'page' %}
       {% if page.status != 'unlisted' %}
         {% if page.title %}
           <article>
-            <h1><a href="{{ root_url }}{{ page.url }}">{{page.title}}</a></h1>
-            {{ page.content }}
+            <header>
+              <h1><a href="{{ root_url }}{{ page.url }}">{{page.title}}</a></h1>
+            </header>
+            <div class="entry-content">
+              {{ page.content }}
+            </div>
           </article>
         {% endif %}
       {% endif %}
