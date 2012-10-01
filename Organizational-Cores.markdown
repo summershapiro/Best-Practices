@@ -11,8 +11,8 @@ Team Level
 Organization Level
 ------------------
 [Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf) or better
-    
+
 Sharing Credit & Wealth
 -----------------------
-[Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better                   
+[Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
 

@@ -6,7 +6,7 @@ contributors: Glistening Deepwater, Harlan T Wood
 
 Global Abundance
 -----------------
-[Common Welfare Economy] (http://www.gemeinwohl-oekonomie.org/wp-content/uploads/2012/02/CWE_20_points_summary.pdf)
+[Common Welfare Economy](http://www.gemeinwohl-oekonomie.org/wp-content/uploads/2012/02/CWE_20_points_summary.pdf) or better
 
 Meta / Integral
 ---------------
