@@ -1,18 +1,18 @@
 ---
-layout: default
+layout: home
 title: Best Practices
 contributors: Harlan T Wood
 ---
 
 {% for content_page in site.html_pages %}
-{% if content_page.url != page.url %}
-<section>
+{% if content_page.layout == 'page' %}
+<article>
   <header>
     <h1>{{ content_page.title }}</h1>
   </header>
-  <div>
+  <div class="entry-content">
     {{ content_page.content }}
   </div>
-</section>
+</article>
 {% endif %}
 {% endfor %}
