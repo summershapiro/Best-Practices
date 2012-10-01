@@ -4,43 +4,10 @@ title: Best Practices
 contributors: Harlan T Wood
 ---
 
-Best Practices
-==============
-
-Team Level
-----------
-[Core Protocols](http://liveingreatness.com/files/core-protocols-3.03.html) or better
-
-Organization Level
-------------------
-[Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf) or better
-    
-Sharing Credit & Wealth
------------------------
-[Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better                   
-
 Global Abundance
 -----------------
 [Common Welfare Economy] (http://www.gemeinwohl-oekonomie.org/wp-content/uploads/2012/02/CWE_20_points_summary.pdf) 
 
-Collaboration
-=============                       
-
-Remixing Content: Fork/Diff/Merge
----------------------------------
-[Github](https://help.github.com/) + [prose.io](http://prose.io/) (markdown editor) or better
-
-_(Future: [Software_Zero](http://enlightenedstructure.org/Software_Zero/) or better)_
-
-Content Format
---------------
-[Markdown](http://whatismarkdown.com/) or better (see also: online [markdown to HTML converter](http://daringfireball.net/projects/markdown/dingus))
-
-Diagrams
---------
-[Ditta](http://ditaa.sourceforge.net/) (diagrams generated from ascii art) or better
-                     
-                                                 
 Project Management
 ==================
               
