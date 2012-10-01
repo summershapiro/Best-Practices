@@ -1,13 +1,13 @@
-# Change these to your own values:
+# Change these to your own values --
 
-github_user: harlantwood
-github_repo: Best-Practices
+fork_this_github_user: harlantwood
+fork_this_github_repo: Best-Practices
 url: http://harlantwood.github.com/Best-Practices
 google_analytics_tracking_id: UA-17399272-1
 
-# The rest of the default values should be fine, but can be changed if desired:
+# The rest of the default values should be fine, but can be changed if desired --
 
-title: Best Practices
+title: Best Practices & Tools
 subtitle: "Use these or better..."
 simple_search: http://google.com/search
 
@@ -19,4 +19,3 @@ markdown: maruku
 pygments: true
 
 titlecase: false       # Converts page and post titles to titlecase
-
